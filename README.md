@@ -31,7 +31,7 @@ Here are some of the topics I'm interested in:
 
 ## Top languagues (public repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt07&theme=radical&layout=donut&size_weight=0.5&langs_count=7&hide=jupyter%20notebook,Makefile)](https://github.com/dagt07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt07&theme=radical&layout=donut&size_weight=0.5&langs_count=6&hide=jupyter%20notebook,Makefile,Shell)](https://github.com/dagt07/github-readme-stats)
 
 ## Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -41,6 +41,7 @@ Here are some of the topics I'm interested in:
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenAi](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
