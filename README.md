@@ -31,7 +31,7 @@ Here are some of the topics I'm interested in:
 
 ## Top languagues (public repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt07&theme=radical&layout=donut&size_weight=0.5&langs_count=6&hide=jupyter%20notebook,Makefile,Shell)](https://github.com/dagt07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt07&theme=radical&layout=donut&size_weight=0.5&langs_count=6&hide=jupyter%20notebook,Makefile,Shell,Css)](https://github.com/dagt07/github-readme-stats)
 
 ## Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
