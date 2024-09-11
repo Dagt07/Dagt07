@@ -22,6 +22,7 @@ Here are some of the topics I'm interested in:
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white")
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
